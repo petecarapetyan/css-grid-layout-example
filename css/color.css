@@ -2,7 +2,11 @@
     background-color: grey;
 }
 .ga-content-main {
-    background-color: blue;
+    background-color: beige;
+}
+.sidebar-grid-area {
+    background-color: lightcyan;
+    border: 1px solid black;
 }
 .ga-foot-main {
     background-color: lightgrey;
